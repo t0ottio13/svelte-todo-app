@@ -1,5 +1,5 @@
 # SvelteBasic
-
+https://salmon-ocean-0e714a800.1.azurestaticapps.net/
 
 [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [Svelte](https://https://svelte.dev/) apps in minutes. Use this repo to build and customize a new static site.
 
